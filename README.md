@@ -19,7 +19,7 @@ image processing.
 
 ## Finger-counting algorithm with description
 
-###Approach 1 - the main one, using the following steps to count the number of fingers:
+### Approach 1 - the main one, using the following steps to count the number of fingers:
 1. We create a variable storing the four outermost points.
 2. We find the centre of the hand.
 3. We calculate the distances between the centre and the maximum points.
